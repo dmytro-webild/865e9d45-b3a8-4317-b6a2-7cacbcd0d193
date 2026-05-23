@@ -69,7 +69,7 @@ export default function LandingPage() {
           handle: "@google-maps",
           testimonial: "The best deli in Wilmington! Always fresh.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-food-table_23-2150857766.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-food-table_23-2150857766.jpg?_wi=1",
           imageAlt: "delicatessen interior warm",
         },
         {
@@ -77,7 +77,7 @@ export default function LandingPage() {
           handle: "@google-maps",
           testimonial: "Authentic, high-quality, and delicious.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/black-green-olives-bowl-glass-counter_23-2147916294.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/black-green-olives-bowl-glass-counter_23-2147916294.jpg?_wi=1",
           imageAlt: "delicatessen interior warm",
         },
         {
@@ -115,7 +115,7 @@ export default function LandingPage() {
           href: "tel:3025550198",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/delicious-food-table_23-2150857766.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/delicious-food-table_23-2150857766.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/assorted-food-basket-table_23-2147930091.jpg",
@@ -183,7 +183,7 @@ export default function LandingPage() {
           title: "Years Serving",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/black-green-olives-bowl-glass-counter_23-2147916294.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/black-green-olives-bowl-glass-counter_23-2147916294.jpg?_wi=2"
       mediaAnimation="slide-up"
       metricsAnimation="slide-up"
     />
