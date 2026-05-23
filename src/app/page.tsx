@@ -124,7 +124,7 @@ export default function LandingPage() {
       faqs={[
         { id: "q1", title: "Do you offer delivery?", content: "Yes, we offer delivery services through local partners." },
         { id: "q2", title: "Can I order for pickup?", content: "Absolutely! You can order online and pick up at 103 Vandever Ave." },
-        { id: "q3", title: "What are your hours?", content: "We are open daily for your convenience, check our contact page for specifics." },
+        { id: "q3", title: "What are your hours?", content: "We are open daily for your convenience. Weekdays: 7AM-9PM, Weekends: 8AM-8PM." },
         { id: "q4", title: "Is there a loyalty program?", content: "Stay tuned to our newsletter for upcoming community rewards." }
       ]}
       faqsAnimation="slide-up"
@@ -136,8 +136,8 @@ export default function LandingPage() {
   <div id="contact" data-section="contact">
       <ContactSplitForm
       useInvertedBackground={true}
-      title="Get in Touch"
-      description="Need a bulk order or have a special request? Send us a message."
+      title="Contact & Store Hours"
+      description="Visit us at 103 Vandever Ave, Wilmington. For questions, call us at (302) 555-0198. We are open Mon-Fri 7AM-9PM, Sat-Sun 8AM-8PM."
       inputs={[
         { name: "name", type: "text", placeholder: "Your Name", required: true },
         { name: "email", type: "email", placeholder: "Your Email", required: true },
